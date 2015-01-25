@@ -1,7 +1,6 @@
 # R-Programming-ProgAssignment2
 Repository for Programming Assignment 2
 
-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#
 #USAGE DOCUMENTATION:
 # These two functions are designed to be used together.
 # The makeCacheMatrix function creates a "matrix" object
@@ -35,4 +34,3 @@ Repository for Programming Assignment 2
 # [1,]  -40   16    9
 # [2,]   13   -5   -3
 # [3,]    5   -2   -1
-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#
